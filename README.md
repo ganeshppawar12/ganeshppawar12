@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 ###
-<p align="left">✨ Frontend Developer<br >🎯 Goals:Loading...<br>🎲 Fun fact: Mechanical Engineer</p>
+<p align="left">✨ Frontend Developer<br >🎯 Goals:Loading...<br</p>
 ###
 
 <h2 align="left">I code with</h2>
